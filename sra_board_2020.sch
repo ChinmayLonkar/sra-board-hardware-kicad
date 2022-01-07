@@ -1,0 +1,2460 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 18206 13246
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	9898 3096 9798 3096
+Wire Wire Line
+	9798 3096 9798 3196
+Wire Wire Line
+	10788 3001 10788 2946
+Wire Wire Line
+	10788 2946 9795 2934
+Wire Wire Line
+	9795 2934 9795 3184
+Wire Wire Line
+	9795 3184 9798 3196
+Connection ~ 9798 3196
+Text Label 9798 3096 2    70   ~ 0
+5V
+Wire Wire Line
+	14881 6289 14781 6289
+Wire Wire Line
+	14781 6289 14781 6389
+Wire Wire Line
+	14781 6389 14781 6489
+Wire Wire Line
+	14781 6489 14781 6589
+Wire Wire Line
+	14781 6589 14781 6689
+Wire Wire Line
+	14781 6689 14781 6939
+Wire Wire Line
+	14881 6389 14781 6389
+Wire Wire Line
+	14881 6489 14781 6489
+Wire Wire Line
+	14881 6589 14781 6589
+Wire Wire Line
+	14881 6689 14781 6689
+Connection ~ 14781 6389
+Connection ~ 14781 6489
+Connection ~ 14781 6589
+Connection ~ 14781 6689
+Text Label 14781 6939 3    70   ~ 0
+5V
+Wire Wire Line
+	14986 5362 15423 5354
+Wire Wire Line
+	15423 5354 15423 5360
+Wire Wire Line
+	15865 5362 15865 5348
+Wire Wire Line
+	15865 5348 15423 5360
+Wire Wire Line
+	14986 5362 14844 5362
+Wire Wire Line
+	14844 5362 14844 5358
+Connection ~ 15423 5360
+Connection ~ 14986 5362
+Text Label 14844 5360 2    40   ~ 0
+5V
+Wire Wire Line
+	7835 6720 7639 6720
+Wire Wire Line
+	7639 6720 7639 6726
+Text Label 7639 6720 2    70   ~ 0
+5V
+Wire Wire Line
+	10398 3096 10398 2800
+Wire Wire Line
+	10398 2800 10392 2800
+Wire Wire Line
+	10398 2800 10788 2800
+Wire Wire Line
+	10788 2800 10788 2801
+Wire Wire Line
+	10400 3400 10400 3096
+Wire Wire Line
+	9798 3496 9798 3596
+Text Label 9798 3496 0    10   ~ 0
+0
+Wire Wire Line
+	10400 3600 10400 3700
+Wire Wire Line
+	10400 3700 10398 3700
+Wire Wire Line
+	10398 3700 10398 3796
+Text Label 10400 3600 0    10   ~ 0
+0
+Wire Wire Line
+	10698 2196 10798 2196
+Wire Wire Line
+	10798 2296 10798 2196
+Text Label 10698 2196 0    10   ~ 0
+0
+Wire Wire Line
+	11098 2796 11098 2913
+Wire Wire Line
+	10788 3101 10691 3101
+Wire Wire Line
+	10691 3101 10691 3110
+Wire Wire Line
+	10691 3101 10691 2909
+Wire Wire Line
+	10691 2909 10788 2909
+Wire Wire Line
+	10788 2909 10788 2901
+Wire Wire Line
+	10788 2901 10788 2896
+Wire Wire Line
+	10788 2896 11098 2913
+Connection ~ 10788 2901
+Connection ~ 11098 2913
+Text Label 11098 2796 0    10   ~ 0
+0
+Wire Wire Line
+	11125 9314 11275 9314
+Text Label 11125 9314 0    10   ~ 0
+0
+Wire Wire Line
+	11275 10314 11125 10314
+Text Label 11275 10314 0    10   ~ 0
+0
+Wire Wire Line
+	12475 10314 12625 10314
+Text Label 12475 10314 0    10   ~ 0
+0
+Wire Wire Line
+	14066 10295 13916 10295
+Text Label 14066 10295 0    10   ~ 0
+0
+Wire Wire Line
+	14066 9295 13916 9295
+Text Label 14066 9295 0    10   ~ 0
+0
+Wire Wire Line
+	15266 10295 15416 10295
+Text Label 15266 10295 0    10   ~ 0
+0
+Wire Wire Line
+	7834 8439 7984 8439
+Text Label 7834 8439 0    10   ~ 0
+0
+Wire Wire Line
+	8884 8839 9184 8839
+Text Label 8884 8839 0    10   ~ 0
+0
+Wire Wire Line
+	10500 5628 10400 5628
+Wire Wire Line
+	10400 5628 10400 5603
+Wire Wire Line
+	10400 5603 10400 5528
+Wire Wire Line
+	10400 5528 10500 5528
+Wire Wire Line
+	10400 5603 10250 5603
+Connection ~ 10400 5603
+Text Label 10500 5628 0    10   ~ 0
+0
+Wire Wire Line
+	10500 6228 10400 6228
+Wire Wire Line
+	10400 6228 10400 6203
+Wire Wire Line
+	10400 6203 10400 6128
+Wire Wire Line
+	10400 6128 10500 6128
+Wire Wire Line
+	10250 6203 10400 6203
+Connection ~ 10400 6203
+Text Label 10500 6228 0    10   ~ 0
+0
+Wire Wire Line
+	4864 8365 5664 8365
+Wire Wire Line
+	5664 8365 6114 8365
+Connection ~ 5664 8365
+Text Label 4864 8365 0    10   ~ 0
+0
+Wire Wire Line
+	4864 8965 5664 8965
+Wire Wire Line
+	5664 8965 6114 8965
+Connection ~ 5664 8965
+Text Label 4864 8965 0    10   ~ 0
+0
+Wire Wire Line
+	4167 4122 4167 4272
+Text Label 4167 4122 0    10   ~ 0
+0
+Wire Wire Line
+	11700 5628 11600 5628
+Wire Wire Line
+	11600 5628 11600 5603
+Wire Wire Line
+	11600 5603 11600 5528
+Wire Wire Line
+	11600 5528 11700 5528
+Wire Wire Line
+	11600 5603 11450 5603
+Connection ~ 11600 5603
+Text Label 11700 5628 0    10   ~ 0
+0
+Wire Wire Line
+	11700 6228 11600 6228
+Wire Wire Line
+	11600 6228 11600 6203
+Wire Wire Line
+	11600 6203 11600 6128
+Wire Wire Line
+	11600 6128 11700 6128
+Wire Wire Line
+	11450 6203 11600 6203
+Connection ~ 11600 6203
+Text Label 11700 6228 0    10   ~ 0
+0
+Wire Wire Line
+	14803 5510 14804 5462
+Wire Wire Line
+	14804 5462 14868 5456
+Wire Wire Line
+	14856 5460 14868 5456
+Wire Wire Line
+	14986 5462 14986 5467
+Wire Wire Line
+	14986 5467 15423 5460
+Wire Wire Line
+	15865 5462 15865 5448
+Wire Wire Line
+	15865 5448 15423 5460
+Wire Wire Line
+	14856 5460 14976 5460
+Wire Wire Line
+	14976 5460 14986 5462
+Connection ~ 15423 5460
+Connection ~ 14986 5462
+Text Label 14803 5510 0    10   ~ 0
+0
+Wire Wire Line
+	9311 9487 9311 9488
+Wire Wire Line
+	9311 9488 8884 9488
+Text Label 9311 9487 0    10   ~ 0
+0
+Wire Wire Line
+	12752 3051 12752 2962
+Wire Wire Line
+	12752 2962 12755 2962
+Text Label 12752 3051 0    10   ~ 0
+0
+Wire Wire Line
+	14219 3153 14219 3086
+Wire Wire Line
+	14219 3086 14224 3086
+Text Label 14219 3153 0    10   ~ 0
+0
+Wire Wire Line
+	14418 3157 14418 3092
+Wire Wire Line
+	14418 3092 14422 3092
+Text Label 14418 3157 0    10   ~ 0
+0
+Wire Wire Line
+	14090 2747 14054 2747
+Wire Wire Line
+	14054 2747 14054 2745
+Text Label 14090 2747 0    10   ~ 0
+0
+Wire Wire Line
+	15968 7036 15968 7032
+Wire Wire Line
+	15968 6670 16060 6670
+Wire Wire Line
+	15968 6570 16060 6570
+Wire Wire Line
+	15968 6470 16060 6470
+Wire Wire Line
+	15968 6370 16060 6370
+Wire Wire Line
+	15968 6270 16060 6270
+Connection ~ 15968 7032
+Text Label 15968 7036 0    10   ~ 0
+0
+Wire Wire Line
+	3617 4322 3734 4322
+Wire Wire Line
+	3734 4322 3734 4316
+Text Label 3617 4322 0    10   ~ 0
+0
+Wire Wire Line
+	7686 2841 7686 2741
+Wire Wire Line
+	7686 2741 7085 2741
+Wire Wire Line
+	7686 2841 7686 2647
+Wire Wire Line
+	7686 2647 7085 2647
+Wire Wire Line
+	7085 2647 7085 2641
+Wire Wire Line
+	7035 2191 7035 2200
+Wire Wire Line
+	7035 2200 7700 2200
+Wire Wire Line
+	7700 2200 7700 2841
+Wire Wire Line
+	7700 2841 7686 2841
+Connection ~ 7686 2841
+Text Label 7686 2841 0    10   ~ 0
+0
+Wire Wire Line
+	2515 9664 3265 9664
+Wire Wire Line
+	2515 9664 1440 9664
+Wire Wire Line
+	1440 9664 1440 9746
+Connection ~ 2515 9664
+Text Label 2515 9664 0    10   ~ 0
+0
+Wire Wire Line
+	7912 10711 7912 10600
+Text Label 7912 10711 0    10   ~ 0
+0
+Wire Wire Line
+	9241 5714 9341 5714
+Wire Wire Line
+	9341 5714 9341 5914
+Wire Wire Line
+	9341 5914 9341 6114
+Wire Wire Line
+	9341 6114 9241 6114
+Wire Wire Line
+	9541 5914 9341 5914
+Connection ~ 9341 5914
+Text Label 9441 5914 0    56   ~ 0
+12V_P
+Wire Wire Line
+	11275 8915 11125 8915
+Text Label 11175 8915 2    56   ~ 0
+12V_P
+Wire Wire Line
+	14066 8896 13916 8896
+Text Label 13916 8896 2    56   ~ 0
+12V_P
+Wire Wire Line
+	11275 9514 11125 9514
+Text Label 11175 9514 2    56   ~ 0
+OUT1A
+Wire Wire Line
+	13631 5049 13431 5049
+Text Label 13431 5049 2    40   ~ 0
+OUT1A
+Wire Wire Line
+	11275 9714 11125 9714
+Text Label 11175 9714 2    56   ~ 0
+OUT2A
+Wire Wire Line
+	13631 5149 13431 5149
+Text Label 13431 5149 2    40   ~ 0
+OUT2A
+Wire Wire Line
+	13182 6624 13236 6624
+Wire Wire Line
+	13236 6624 13236 6626
+Text Label 13236 6624 0    70   ~ 0
+OUT2A
+Wire Wire Line
+	11275 9914 11125 9914
+Text Label 11125 9914 2    56   ~ 0
+OUT4A
+Wire Wire Line
+	13631 5349 13431 5349
+Text Label 13431 5349 2    40   ~ 0
+OUT4A
+Wire Wire Line
+	11275 10114 11125 10114
+Text Label 11175 10114 2    56   ~ 0
+OUT3A
+Wire Wire Line
+	13631 5249 13431 5249
+Text Label 13431 5249 2    40   ~ 0
+OUT3A
+Wire Wire Line
+	13178 6364 13232 6364
+Wire Wire Line
+	13232 6364 13232 6360
+Text Label 13232 6364 0    70   ~ 0
+OUT3A
+Wire Wire Line
+	14066 9495 13966 9495
+Text Label 13966 9495 2    56   ~ 0
+OUT1B
+Wire Wire Line
+	13631 5549 13431 5549
+Text Label 13431 5549 2    40   ~ 0
+OUT1B
+Wire Wire Line
+	14066 9695 13966 9695
+Text Label 13966 9695 2    56   ~ 0
+OUT2B
+Wire Wire Line
+	13631 5649 13431 5649
+Text Label 13431 5649 2    40   ~ 0
+OUT2B
+Wire Wire Line
+	13999 6616 14053 6616
+Wire Wire Line
+	14053 6616 14053 6618
+Text Label 14053 6616 0    70   ~ 0
+OUT2B
+Wire Wire Line
+	14066 9895 13966 9895
+Text Label 13966 9895 2    56   ~ 0
+OUT4B
+Wire Wire Line
+	13631 5849 13431 5849
+Text Label 13431 5849 2    40   ~ 0
+OUT4B
+Wire Wire Line
+	14066 10095 13916 10095
+Text Label 13916 10095 2    56   ~ 0
+OUT3B
+Wire Wire Line
+	13631 5749 13431 5749
+Text Label 13431 5749 2    40   ~ 0
+OUT3B
+Wire Wire Line
+	13995 6356 14049 6356
+Wire Wire Line
+	14049 6356 14049 6352
+Text Label 14049 6356 0    70   ~ 0
+OUT3B
+Wire Wire Line
+	9241 6614 9341 6614
+Wire Wire Line
+	9341 6614 9341 6814
+Wire Wire Line
+	9341 6814 9341 7014
+Wire Wire Line
+	9341 7014 9241 7014
+Wire Wire Line
+	9541 6814 9341 6814
+Connection ~ 9341 6814
+Text Label 9441 6814 0    56   ~ 0
+5V_P
+Wire Wire Line
+	2515 10164 3265 10164
+Text Label 2515 10164 2    40   ~ 0
+5V_P
+Wire Wire Line
+	8591 5814 8791 5814
+Wire Wire Line
+	8791 5814 8791 5614
+Wire Wire Line
+	8791 5614 8841 5614
+Wire Wire Line
+	8841 6014 8791 6014
+Wire Wire Line
+	8791 6014 8791 5814
+Connection ~ 8791 5814
+Wire Wire Line
+	8791 6514 8841 6514
+Wire Wire Line
+	8841 6914 8791 6914
+Wire Wire Line
+	8791 6914 8791 6714
+Wire Wire Line
+	8791 6714 8791 6514
+Wire Wire Line
+	8641 6714 8791 6714
+Connection ~ 8791 6714
+Wire Wire Line
+	5985 6069 5872 6069
+Wire Wire Line
+	5872 6069 5872 6063
+Text Label 5872 6063 2    40   ~ 0
+AIN2
+Wire Wire Line
+	12961 9116 13023 9116
+Wire Wire Line
+	13023 9116 13023 9122
+Text Label 13023 9119 0    56   ~ 0
+AIN2
+Wire Wire Line
+	5985 5669 5864 5669
+Wire Wire Line
+	5864 5669 5864 5665
+Text Label 5864 5665 2    40   ~ 0
+AIN1
+Wire Wire Line
+	12961 9314 13023 9314
+Wire Wire Line
+	13023 9314 13023 9298
+Text Label 13023 9314 0    56   ~ 0
+AIN1
+Wire Wire Line
+	6000 6961 5887 6961
+Wire Wire Line
+	5887 6961 5887 6954
+Text Label 5887 6954 2    40   ~ 0
+BIN2
+Wire Wire Line
+	15855 9097 15917 9097
+Text Label 15917 9097 0    56   ~ 0
+BIN2
+Wire Wire Line
+	6000 6561 5879 6561
+Wire Wire Line
+	5879 6561 5879 6557
+Text Label 5879 6557 2    40   ~ 0
+BIN1
+Wire Wire Line
+	15855 9294 15917 9294
+Text Label 15917 9294 0    56   ~ 0
+BIN1
+Wire Wire Line
+	6400 6661 6488 6661
+Wire Wire Line
+	6488 6661 6488 6659
+Text Label 6484 6661 0    40   ~ 0
+12
+Wire Wire Line
+	3317 6122 3167 6122
+Text Label 3167 6122 2    40   ~ 0
+12
+Wire Wire Line
+	2515 9564 3265 9564
+Text Label 2515 9564 2    40   ~ 0
+12
+Wire Wire Line
+	15855 9689 15855 9692
+Wire Wire Line
+	15855 9692 15917 9692
+Text Label 15917 9692 0    56   ~ 0
+12
+Wire Wire Line
+	6400 7061 6400 7063
+Wire Wire Line
+	6400 7063 6488 7063
+Text Label 6488 7063 0    40   ~ 0
+13
+Wire Wire Line
+	3317 5522 3167 5522
+Text Label 3167 5522 2    40   ~ 0
+13
+Wire Wire Line
+	2515 9764 3265 9764
+Text Label 2515 9764 2    40   ~ 0
+13
+Wire Wire Line
+	15855 9886 15917 9886
+Wire Wire Line
+	15917 9886 15917 9888
+Text Label 15886 9886 0    56   ~ 0
+13
+Wire Wire Line
+	2515 8365 3265 8365
+Text Label 2515 8365 2    40   ~ 0
+3V3
+Wire Wire Line
+	3265 8465 2515 8465
+Text Label 2515 8465 2    40   ~ 0
+EN
+Wire Wire Line
+	2515 9864 3265 9864
+Text Label 2515 9864 2    40   ~ 0
+SD2
+Wire Wire Line
+	2515 9964 3265 9964
+Text Label 2515 9964 2    40   ~ 0
+SD3
+Wire Wire Line
+	2515 10064 3265 10064
+Text Label 2515 10064 2    40   ~ 0
+CMD
+Wire Wire Line
+	4864 9264 5664 9264
+Text Label 5664 9264 0    40   ~ 0
+5
+Wire Wire Line
+	14986 5262 14897 5262
+Wire Wire Line
+	14897 5262 14897 5258
+Text Label 14897 5258 1    40   ~ 0
+5
+Wire Wire Line
+	4864 9364 5664 9364
+Text Label 5664 9364 0    40   ~ 0
+17
+Wire Wire Line
+	12100 6128 12153 6128
+Wire Wire Line
+	12153 6128 12153 6228
+Wire Wire Line
+	12153 6228 12100 6228
+Text Label 12100 6228 0    40   ~ 0
+17
+Wire Wire Line
+	4864 9464 5664 9464
+Text Label 5664 9464 0    40   ~ 0
+16
+Wire Wire Line
+	12100 5528 12165 5528
+Wire Wire Line
+	12165 5528 12165 5628
+Wire Wire Line
+	12165 5628 12100 5628
+Text Label 12165 5578 0    40   ~ 0
+16
+Wire Wire Line
+	4864 9564 5664 9564
+Text Label 5664 9564 0    40   ~ 0
+4
+Wire Wire Line
+	10900 5528 10956 5528
+Wire Wire Line
+	10956 5528 10956 5628
+Wire Wire Line
+	10956 5628 10900 5628
+Text Label 10956 5578 0    40   ~ 0
+4
+Wire Wire Line
+	4864 9764 5664 9764
+Text Label 5664 9764 0    40   ~ 0
+2
+Wire Wire Line
+	10900 6128 10948 6128
+Wire Wire Line
+	10948 6128 10933 6124
+Wire Wire Line
+	10948 6128 10948 6228
+Wire Wire Line
+	10948 6228 10900 6228
+Text Label 10900 6228 0    40   ~ 0
+2
+Wire Wire Line
+	4864 9864 5664 9864
+Text Label 5664 9864 0    40   ~ 0
+15
+Wire Wire Line
+	4864 9964 5664 9964
+Text Label 5664 9964 0    40   ~ 0
+SD1
+Wire Wire Line
+	4864 10064 5664 10064
+Text Label 5664 10064 0    40   ~ 0
+SD0
+Wire Wire Line
+	4864 10164 5664 10164
+Text Label 5664 10164 0    40   ~ 0
+CLK
+Wire Wire Line
+	7984 8639 7834 8639
+Text Label 7834 8639 2    70   ~ 0
+22
+Wire Wire Line
+	4864 8565 5664 8565
+Text Label 5664 8565 0    40   ~ 0
+22
+Wire Wire Line
+	8600 10800 8400 10800
+Text Label 8400 10800 2    70   ~ 0
+22
+Wire Wire Line
+	7984 8839 7834 8839
+Text Label 7834 8839 2    70   ~ 0
+21
+Wire Wire Line
+	4864 8865 5664 8865
+Text Label 5664 8865 0    40   ~ 0
+21
+Wire Wire Line
+	8600 10700 8400 10700
+Text Label 8400 10700 2    70   ~ 0
+21
+Wire Wire Line
+	4864 9165 5664 9165
+Text Label 5664 9165 0    40   ~ 0
+18
+Wire Wire Line
+	15865 5262 15865 5260
+Wire Wire Line
+	15865 5260 15775 5260
+Text Label 15775 5260 1    40   ~ 0
+18
+Wire Wire Line
+	2515 8765 3265 8765
+Text Label 2515 8765 2    40   ~ 0
+34
+Wire Wire Line
+	7984 9688 7884 9688
+Text Label 7884 9688 2    70   ~ 0
+34
+Wire Wire Line
+	3265 8865 2515 8865
+Text Label 2515 8865 2    40   ~ 0
+35
+Wire Wire Line
+	7984 9888 7884 9888
+Text Label 7884 9888 2    70   ~ 0
+35
+Wire Wire Line
+	2515 8565 3265 8565
+Text Label 2515 8565 2    40   ~ 0
+36
+Wire Wire Line
+	7984 9288 7884 9288
+Text Label 7884 9288 2    70   ~ 0
+36
+Wire Wire Line
+	3265 8665 2515 8665
+Text Label 2515 8665 2    40   ~ 0
+39
+Wire Wire Line
+	7984 9488 7884 9488
+Text Label 7884 9488 2    70   ~ 0
+39
+Wire Wire Line
+	7984 10088 7884 10088
+Text Label 7884 10088 2    70   ~ 0
+NC4
+Wire Wire Line
+	8884 9688 9184 9688
+Text Label 9184 9688 0    70   ~ 0
+NC1
+Wire Wire Line
+	8884 9888 9184 9888
+Text Label 9184 9888 0    70   ~ 0
+NC2
+Wire Wire Line
+	8884 10088 9184 10088
+Text Label 9184 10088 0    70   ~ 0
+NC3
+Wire Wire Line
+	4864 8465 5664 8465
+Text Label 5664 8465 0    40   ~ 0
+23
+Wire Wire Line
+	8884 8639 9224 8639
+Wire Wire Line
+	9224 8639 9224 8634
+Text Label 9224 8634 0    40   ~ 0
+23
+Wire Wire Line
+	6400 6861 6478 6861
+Wire Wire Line
+	6478 6861 6478 6852
+Text Label 6478 6861 0    40   ~ 0
+14
+Wire Wire Line
+	3317 6722 3167 6722
+Text Label 3167 6722 2    40   ~ 0
+14
+Wire Wire Line
+	2515 9464 3265 9464
+Text Label 2515 9464 2    40   ~ 0
+14
+Wire Wire Line
+	6400 6461 6488 6461
+Wire Wire Line
+	6488 6461 6488 6456
+Text Label 6488 6456 0    40   ~ 0
+27
+Wire Wire Line
+	2117 4322 1967 4322
+Text Label 1967 4322 2    40   ~ 0
+27
+Wire Wire Line
+	2515 9364 3265 9364
+Text Label 2515 9364 2    40   ~ 0
+27
+Wire Wire Line
+	6385 6169 6385 6171
+Wire Wire Line
+	6385 6171 6472 6171
+Text Label 6472 6171 0    40   ~ 0
+26
+Wire Wire Line
+	2117 4922 1967 4922
+Text Label 1967 4922 2    40   ~ 0
+26
+Wire Wire Line
+	2515 9264 3265 9264
+Text Label 2515 9264 2    40   ~ 0
+26
+Wire Wire Line
+	12961 9927 13062 9927
+Wire Wire Line
+	13062 9927 13062 9948
+Text Label 13062 9928 0    56   ~ 0
+26
+Wire Wire Line
+	6385 5969 6462 5969
+Wire Wire Line
+	6462 5969 6462 5960
+Text Label 6462 5969 0    40   ~ 0
+33
+Wire Wire Line
+	2117 6122 1967 6122
+Text Label 1967 6122 2    40   ~ 0
+33
+Wire Wire Line
+	2515 9065 3265 9065
+Text Label 2515 9065 2    40   ~ 0
+33
+Wire Wire Line
+	6385 5569 6472 5569
+Wire Wire Line
+	6472 5569 6472 5565
+Text Label 6472 5565 0    40   ~ 0
+32
+Wire Wire Line
+	2117 6722 1947 6722
+Wire Wire Line
+	1947 6722 1947 6706
+Text Label 1947 6714 2    40   ~ 0
+32
+Wire Wire Line
+	2515 8965 3265 8965
+Text Label 2515 8965 2    40   ~ 0
+32
+Wire Wire Line
+	6385 5769 6472 5769
+Wire Wire Line
+	6472 5769 6472 5767
+Text Label 6468 5769 0    40   ~ 0
+25
+Wire Wire Line
+	2117 5522 1967 5522
+Text Label 1967 5522 2    40   ~ 0
+25
+Wire Wire Line
+	2515 9165 3265 9165
+Text Label 2515 9165 2    40   ~ 0
+25
+Wire Wire Line
+	12961 9709 12961 9711
+Wire Wire Line
+	12961 9711 13043 9711
+Text Label 13043 9711 0    56   ~ 0
+25
+Wire Wire Line
+	4167 6272 4267 6272
+Text Label 4267 6272 0    40   ~ 0
+2L
+Wire Wire Line
+	2417 6722 2560 6722
+Wire Wire Line
+	2560 6722 2560 6728
+Text Label 2560 6722 0    40   ~ 0
+2L
+Wire Wire Line
+	4167 6072 4267 6072
+Text Label 4267 6072 0    40   ~ 0
+3L
+Wire Wire Line
+	2417 6122 2508 6122
+Wire Wire Line
+	2508 6122 2508 6116
+Text Label 2508 6116 0    40   ~ 0
+3L
+Wire Wire Line
+	4167 5872 4267 5872
+Text Label 4267 5872 0    40   ~ 0
+4L
+Wire Wire Line
+	2417 5522 2508 5522
+Wire Wire Line
+	2508 5522 2508 5523
+Wire Wire Line
+	2508 5523 2502 5523
+Text Label 2462 5522 0    40   ~ 0
+4L
+Wire Wire Line
+	4167 5672 4267 5672
+Text Label 4267 5672 0    40   ~ 0
+5L
+Wire Wire Line
+	2417 4922 2502 4922
+Wire Wire Line
+	2502 4922 2502 4929
+Text Label 2502 4922 0    40   ~ 0
+5L
+Wire Wire Line
+	4167 5472 4267 5472
+Text Label 4267 5472 0    40   ~ 0
+6L
+Wire Wire Line
+	2417 4322 2417 4317
+Wire Wire Line
+	2417 4317 2491 4317
+Text Label 2491 4317 0    40   ~ 0
+6L
+Wire Wire Line
+	4167 5272 4267 5272
+Text Label 4267 5272 0    40   ~ 0
+7L
+Wire Wire Line
+	3617 6722 3617 6730
+Wire Wire Line
+	3617 6730 3711 6730
+Text Label 3711 6730 0    40   ~ 0
+7L
+Wire Wire Line
+	4167 5072 4267 5072
+Text Label 4267 5072 0    40   ~ 0
+8L
+Wire Wire Line
+	3617 6122 3715 6122
+Wire Wire Line
+	3715 6122 3715 6126
+Text Label 3715 6122 0    40   ~ 0
+8L
+Wire Wire Line
+	4167 4872 4267 4872
+Text Label 4267 4872 0    40   ~ 0
+9L
+Wire Wire Line
+	3617 5522 3767 5522
+Text Label 3767 5522 0    40   ~ 0
+9L
+Wire Wire Line
+	4167 4672 4267 4672
+Text Label 4267 4672 0    40   ~ 0
+10L
+Wire Wire Line
+	3617 4922 3617 4915
+Wire Wire Line
+	3617 4915 3697 4915
+Text Label 3697 4915 0    40   ~ 0
+10L
+Wire Wire Line
+	4864 8765 5664 8765
+Text Label 5664 8765 0    40   ~ 0
+RX
+Wire Wire Line
+	4864 8665 5664 8665
+Text Label 5664 8665 0    40   ~ 0
+TX
+Wire Wire Line
+	4864 9065 5664 9065
+Text Label 5664 9065 0    40   ~ 0
+19
+Wire Wire Line
+	15423 5260 15423 5265
+Wire Wire Line
+	15423 5265 15338 5265
+Text Label 15338 5265 1    40   ~ 0
+19
+Wire Wire Line
+	8884 9288 8884 9290
+Wire Wire Line
+	8884 9290 9288 9290
+Text Label 9288 9290 0    70   ~ 0
+3.3V
+Wire Wire Line
+	14224 2786 14224 2545
+Wire Wire Line
+	14224 2545 14054 2545
+Wire Wire Line
+	14422 2792 14422 2547
+Wire Wire Line
+	14422 2547 14054 2547
+Wire Wire Line
+	14054 2547 14054 2545
+Connection ~ 14054 2545
+Text Label 14422 2547 0    70   ~ 0
+3.3V
+Wire Wire Line
+	11275 9115 11125 9115
+Text Label 11125 9115 2    70   ~ 0
+3.3V
+Wire Wire Line
+	12475 8915 12625 8915
+Text Label 12575 8915 0    56   ~ 0
+3.3V
+Wire Wire Line
+	12475 10114 12625 10114
+Text Label 12575 10114 0    56   ~ 0
+3.3V
+Wire Wire Line
+	14066 9096 13916 9096
+Text Label 13916 9096 2    70   ~ 0
+3.3V
+Wire Wire Line
+	15266 8896 15416 8896
+Text Label 15416 8896 0    56   ~ 0
+3.3V
+Wire Wire Line
+	15266 10095 15416 10095
+Text Label 15416 10095 0    56   ~ 0
+3.3V
+Wire Wire Line
+	8884 8439 9184 8439
+Text Label 9184 8439 0    70   ~ 0
+3.3V
+Wire Wire Line
+	15457 6289 15357 6289
+Wire Wire Line
+	15357 6289 15357 6389
+Wire Wire Line
+	15357 6389 15357 6489
+Wire Wire Line
+	15357 6489 15357 6589
+Wire Wire Line
+	15357 6589 15357 6689
+Wire Wire Line
+	15357 6689 15357 6939
+Wire Wire Line
+	15457 6389 15357 6389
+Wire Wire Line
+	15457 6489 15357 6489
+Wire Wire Line
+	15457 6589 15357 6589
+Wire Wire Line
+	15457 6689 15357 6689
+Connection ~ 15357 6389
+Connection ~ 15357 6489
+Connection ~ 15357 6589
+Connection ~ 15357 6689
+Text Label 15357 6939 3    70   ~ 0
+3.3V
+Wire Wire Line
+	3643 4575 3772 4575
+Wire Wire Line
+	3772 4575 3772 4580
+Text Label 3745 4575 0    40   ~ 0
+3.3V
+Wire Wire Line
+	8600 10500 8400 10500
+Text Label 8400 10500 2    70   ~ 0
+3.3V
+Wire Wire Line
+	12475 9514 12600 9514
+Wire Wire Line
+	12600 9514 12600 9500
+Text Label 12600 9500 0    70   ~ 0
+3.3V
+Wire Wire Line
+	15266 9495 15266 9500
+Wire Wire Line
+	15266 9500 15400 9500
+Text Label 15400 9500 0    70   ~ 0
+3.3V
+Wire Wire Line
+	4864 9664 5664 9664
+Text Label 5664 9664 0    40   ~ 0
+O
+Wire Wire Line
+	15957 6919 15948 6919
+Wire Wire Line
+	8035 6720 8241 6720
+Wire Wire Line
+	8241 6720 8241 6714
+Text Label 8138 6720 1    70   ~ 0
+AMS_IN
+Wire Wire Line
+	12633 2545 12633 2543
+Wire Wire Line
+	12755 2662 12755 2545
+Text Label 12633 2545 2    70   ~ 0
+AMS_IN
+Wire Wire Line
+	3317 4922 3167 4922
+Text Label 3167 4922 2    40   ~ 0
+AMS_IN
+Wire Wire Line
+	3317 4322 3095 4322
+Wire Wire Line
+	3095 4322 3095 4307
+Wire Wire Line
+	3095 4322 3095 4575
+Wire Wire Line
+	3095 4575 3243 4575
+Wire Wire Line
+	7085 2541 7185 2541
+Text Label 7185 2541 0    56   ~ 0
+12V_U
+Wire Wire Line
+	10000 2600 9800 2600
+Text Label 9800 2600 2    70   ~ 0
+12V_U
+Wire Wire Line
+	7800 5800 7600 5800
+Text Label 7600 5800 2    70   ~ 0
+12V_U
+Wire Wire Line
+	7035 2091 7035 2100
+Wire Wire Line
+	7035 2100 7700 2100
+Text Label 7700 2100 0    70   ~ 0
+12V_U
+Wire Wire Line
+	12475 9115 12475 9116
+Wire Wire Line
+	12475 9116 12561 9116
+Wire Wire Line
+	12475 9314 12561 9314
+Wire Wire Line
+	12475 9714 12475 9709
+Wire Wire Line
+	12475 9709 12561 9709
+Wire Wire Line
+	12475 9914 12561 9914
+Wire Wire Line
+	12561 9914 12561 9927
+Wire Wire Line
+	15266 9096 15455 9096
+Wire Wire Line
+	15455 9096 15455 9097
+Wire Wire Line
+	15455 9294 15455 9295
+Wire Wire Line
+	15455 9295 15266 9295
+Wire Wire Line
+	15266 9695 15455 9695
+Wire Wire Line
+	15455 9695 15455 9689
+Wire Wire Line
+	15455 9886 15266 9886
+Wire Wire Line
+	15266 9886 15266 9895
+Wire Wire Line
+	8191 5814 8191 5800
+Wire Wire Line
+	8191 5800 8000 5800
+Wire Wire Line
+	10788 2701 10788 2700
+Wire Wire Line
+	10788 2700 10398 2700
+Wire Wire Line
+	10398 2700 10398 2196
+Wire Wire Line
+	10200 2600 10400 2600
+Wire Wire Line
+	10400 2600 10400 2196
+Wire Wire Line
+	10400 2196 10398 2196
+Connection ~ 10398 2196
+$Comp
+L sra_board_2020-eagle-import:JACK-PLUG1 POWER-JACK1
+U 1 1 E23C4EEA
+P 6885 2641
+F 0 "POWER-JACK1" H 6585 3441 59  0000 L BNN
+F 1 "JACK-PLUG1" H 6585 2441 59  0000 L BNN
+F 2 "sra_board_2020:SPC4078" H 6885 2641 50  0001 C CNN
+F 3 "" H 6885 2641 50  0001 C CNN
+	1    6885 2641
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:691131710004 J1
+U 1 1 2CE6A523
+P 13881 5199
+F 0 "J1" H 13631 5467 59  0001 L BNN
+F 1 "691131710004" H 13631 4849 59  0000 L BNN
+F 2 "sra_board_2020:691131710004" H 13881 5199 50  0001 C CNN
+F 3 "" H 13881 5199 50  0001 C CNN
+	1    13881 5199
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:691131710004 J2
+U 1 1 F2D55355
+P 13881 5699
+F 0 "J2" H 13631 5967 59  0001 L BNN
+F 1 "691131710004" H 13631 5349 59  0000 L BNN
+F 2 "sra_board_2020:691131710004" H 13881 5699 50  0001 C CNN
+F 3 "" H 13881 5699 50  0001 C CNN
+	1    13881 5699
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:691131710002 12V1
+U 1 1 E67F3876
+P 6785 2141
+F 0 "12V1" H 6535 2309 59  0001 L BNN
+F 1 "691131710002" H 6535 1891 59  0000 L BNN
+F 2 "sra_board_2020:691131710002" H 6785 2141 50  0001 C CNN
+F 3 "" H 6785 2141 50  0001 C CNN
+	1    6785 2141
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:CPOL-EUE2.5-6 CIN2
+U 1 1 06D306DD
+P 10498 2196
+F 0 "CIN2" V 10543 2465 59  0000 L BNN
+F 1 "100uF" V 10567 2601 59  0000 R TNN
+F 2 "sra_board_2020:E2,5-6" H 10498 2196 50  0001 C CNN
+F 3 "" H 10498 2196 50  0001 C CNN
+	1    10498 2196
+	0    -1   1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:CPOL-EUE3.5-10 CO3
+U 1 1 8BC50E35
+P 9798 3296
+F 0 "CO3" H 10117 3101 59  0000 L BNN
+F 1 "470uF" H 9893 3215 59  0000 L BNN
+F 2 "sra_board_2020:E3,5-10" H 9798 3296 50  0001 C CNN
+F 3 "" H 9798 3296 50  0001 C CNN
+	1    9798 3296
+	-1   0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SD12K100 L1
+U 1 1 1B164692
+P 10098 3096
+F 0 "L1" H 9948 3166 59  0000 L BNN
+F 1 "100uH" H 9948 2956 59  0000 L BNN
+F 2 "sra_board_2020:SD12K100" H 10098 3096 50  0001 C CNN
+F 3 "" H 10098 3096 50  0001 C CNN
+	1    10098 3096
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:TB6612FNG TB1
+U 1 1 54FD2D1C
+P 11875 9514
+F 0 "TB1" H 11575 10313 59  0000 L BNN
+F 1 "TB6612FNG" H 11575 8414 59  0000 L BNN
+F 2 "sra_board_2020:TB6612FNG" H 11875 9514 50  0001 C CNN
+F 3 "" H 11875 9514 50  0001 C CNN
+	1    11875 9514
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:TB6612FNG TB2
+U 1 1 619506CE
+P 14666 9495
+F 0 "TB2" H 14366 10294 59  0000 L BNN
+F 1 "TB6612FNG" H 14366 8395 59  0000 L BNN
+F 2 "sra_board_2020:TB6612FNG" H 14666 9495 50  0001 C CNN
+F 3 "" H 14666 9495 50  0001 C CNN
+	1    14666 9495
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:ESP32-DEVKITC-32D U1
+U 1 1 F9562130
+P 4065 9264
+F 0 "U1" H 3464 10289 59  0000 L BNN
+F 1 "ESP32-DEVKITC-32D" H 3464 8163 59  0000 L BNN
+F 2 "sra_board_2020:MODULE_ESP32-DEVKITC-32D" H 4065 9264 50  0001 C CNN
+F 3 "" H 4065 9264 50  0001 C CNN
+	1    4065 9264
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 1 1 DD6AF952
+P 2217 6722
+F 0 "LDZ1" V 2357 6552 59  0000 L BNN
+F 1 "LB10" V 2442 6552 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 2217 6722 50  0001 C CNN
+F 3 "" H 2217 6722 50  0001 C CNN
+	1    2217 6722
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 2 1 DD6AF95E
+P 2217 6122
+F 0 "LDZ1" V 2357 5952 59  0000 L BNN
+F 1 "LB10" V 2442 5952 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 2217 6122 50  0001 C CNN
+F 3 "" H 2217 6122 50  0001 C CNN
+	2    2217 6122
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 3 1 DD6AF95A
+P 2217 5522
+F 0 "LDZ1" V 2357 5352 59  0000 L BNN
+F 1 "LB10" V 2442 5352 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 2217 5522 50  0001 C CNN
+F 3 "" H 2217 5522 50  0001 C CNN
+	3    2217 5522
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 4 1 DD6AF946
+P 2217 4922
+F 0 "LDZ1" V 2357 4752 59  0000 L BNN
+F 1 "LB10" V 2442 4752 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 2217 4922 50  0001 C CNN
+F 3 "" H 2217 4922 50  0001 C CNN
+	4    2217 4922
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 5 1 DD6AF942
+P 2217 4322
+F 0 "LDZ1" V 2357 4152 59  0000 L BNN
+F 1 "LB10" V 2442 4152 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 2217 4322 50  0001 C CNN
+F 3 "" H 2217 4322 50  0001 C CNN
+	5    2217 4322
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 6 1 DD6AF94E
+P 3417 6722
+F 0 "LDZ1" V 3557 6552 59  0000 L BNN
+F 1 "LB10" V 3642 6552 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 3417 6722 50  0001 C CNN
+F 3 "" H 3417 6722 50  0001 C CNN
+	6    3417 6722
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 7 1 DD6AF94A
+P 3417 6122
+F 0 "LDZ1" V 3557 5952 59  0000 L BNN
+F 1 "LB10" V 3642 5952 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 3417 6122 50  0001 C CNN
+F 3 "" H 3417 6122 50  0001 C CNN
+	7    3417 6122
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 8 1 DD6AF976
+P 3417 5522
+F 0 "LDZ1" V 3557 5352 59  0000 L BNN
+F 1 "LB10" V 3642 5352 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 3417 5522 50  0001 C CNN
+F 3 "" H 3417 5522 50  0001 C CNN
+	8    3417 5522
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 9 1 DD6AF972
+P 3417 4922
+F 0 "LDZ1" V 3557 4752 59  0000 L BNN
+F 1 "LB10" V 3642 4752 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 3417 4922 50  0001 C CNN
+F 3 "" H 3417 4922 50  0001 C CNN
+	9    3417 4922
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:LB10 LDZ1
+U 10 1 DD6AF97E
+P 3417 4322
+F 0 "LDZ1" V 3557 4152 59  0000 L BNN
+F 1 "LB10" V 3642 4152 59  0000 L BNN
+F 2 "sra_board_2020:LB10" H 3417 4322 50  0001 C CNN
+F 3 "" H 3417 4322 50  0001 C CNN
+	10   3417 4322
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:RN09 RN2
+U 1 1 FFC1ED88
+P 4167 4472
+F 0 "RN2" H 4067 4572 59  0000 L BNN
+F 1 "RN09" H 4067 4302 59  0000 L BNN
+F 2 "sra_board_2020:RN-10" H 4167 4472 50  0001 C CNN
+F 3 "" H 4167 4472 50  0001 C CNN
+	1    4167 4472
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 MOTOR-S/W1
+U 1 1 F667160E
+P 9041 5614
+F 0 "MOTOR-S/W1" H 9041 5614 50  0001 C CNN
+F 1 "9077-2" V 8816 5739 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 9041 5614 50  0001 C CNN
+F 3 "" H 9041 5614 50  0001 C CNN
+	1    9041 5614
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 MOTOR-S/W1
+U 2 1 F6671602
+P 9041 6014
+F 0 "MOTOR-S/W1" H 9041 6014 50  0001 C CNN
+F 1 "9077-2" V 8816 6139 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 9041 6014 50  0001 C CNN
+F 3 "" H 9041 6014 50  0001 C CNN
+	2    9041 6014
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SH25 F3
+U 1 1 1BB2A722
+P 8391 5814
+F 0 "F3" H 8241 5869 59  0001 L BNN
+F 1 "3A" H 8391 5899 59  0000 L BNN
+F 2 "sra_board_2020:SH25" H 8391 5814 50  0001 C CNN
+F 3 "" H 8391 5814 50  0001 C CNN
+	1    8391 5814
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_02
+U 1 1 557B168A
+P 9798 3596
+F 0 "#X_02" H 9798 3596 50  0001 C CNN
+F 1 "GND" H 9798 3596 50  0001 C CNN
+F 2 "" H 9798 3596 50  0001 C CNN
+F 3 "" H 9798 3596 50  0001 C CNN
+	1    9798 3596
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_03
+U 1 1 9B623D4B
+P 10398 3796
+F 0 "#X_03" H 10398 3796 50  0001 C CNN
+F 1 "GND" H 10398 3796 50  0001 C CNN
+F 2 "" H 10398 3796 50  0001 C CNN
+F 3 "" H 10398 3796 50  0001 C CNN
+	1    10398 3796
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_04
+U 1 1 3AE73A88
+P 10798 2296
+F 0 "#X_04" H 10798 2296 50  0001 C CNN
+F 1 "GND" H 10798 2296 50  0001 C CNN
+F 2 "" H 10798 2296 50  0001 C CNN
+F 3 "" H 10798 2296 50  0001 C CNN
+	1    10798 2296
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_05
+U 1 1 D0DEE998
+P 11098 2913
+F 0 "#X_05" H 11098 2913 50  0001 C CNN
+F 1 "GND" H 11098 2913 50  0001 C CNN
+F 2 "" H 11098 2913 50  0001 C CNN
+F 3 "" H 11098 2913 50  0001 C CNN
+	1    11098 2913
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_06
+U 1 1 70ECE12F
+P 11125 9314
+F 0 "#X_06" H 11125 9314 50  0001 C CNN
+F 1 "GND" H 11125 9314 50  0001 C CNN
+F 2 "" H 11125 9314 50  0001 C CNN
+F 3 "" H 11125 9314 50  0001 C CNN
+	1    11125 9314
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_07
+U 1 1 29F962C0
+P 11125 10314
+F 0 "#X_07" H 11125 10314 50  0001 C CNN
+F 1 "GND" H 11125 10314 50  0001 C CNN
+F 2 "" H 11125 10314 50  0001 C CNN
+F 3 "" H 11125 10314 50  0001 C CNN
+	1    11125 10314
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_08
+U 1 1 C533D2F7
+P 12625 10314
+F 0 "#X_08" H 12625 10314 50  0001 C CNN
+F 1 "GND" H 12625 10314 50  0001 C CNN
+F 2 "" H 12625 10314 50  0001 C CNN
+F 3 "" H 12625 10314 50  0001 C CNN
+	1    12625 10314
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_09
+U 1 1 2B39FEE1
+P 13916 10295
+F 0 "#X_09" H 13916 10295 50  0001 C CNN
+F 1 "GND" H 13916 10295 50  0001 C CNN
+F 2 "" H 13916 10295 50  0001 C CNN
+F 3 "" H 13916 10295 50  0001 C CNN
+	1    13916 10295
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_010
+U 1 1 008AB1F4
+P 13916 9295
+F 0 "#X_010" H 13916 9295 50  0001 C CNN
+F 1 "GND" H 13916 9295 50  0001 C CNN
+F 2 "" H 13916 9295 50  0001 C CNN
+F 3 "" H 13916 9295 50  0001 C CNN
+	1    13916 9295
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_011
+U 1 1 ADEDA9B8
+P 15416 10295
+F 0 "#X_011" H 15416 10295 50  0001 C CNN
+F 1 "GND" H 15416 10295 50  0001 C CNN
+F 2 "" H 15416 10295 50  0001 C CNN
+F 3 "" H 15416 10295 50  0001 C CNN
+	1    15416 10295
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 MCU-S/W1
+U 1 1 DF8E5193
+P 9041 6514
+F 0 "MCU-S/W1" H 9041 6514 50  0001 C CNN
+F 1 "9077-2" V 8816 6639 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 9041 6514 50  0001 C CNN
+F 3 "" H 9041 6514 50  0001 C CNN
+	1    9041 6514
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 MCU-S/W1
+U 2 1 DF8E519F
+P 9041 6914
+F 0 "MCU-S/W1" H 9041 6914 50  0001 C CNN
+F 1 "9077-2" V 8816 7039 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 9041 6914 50  0001 C CNN
+F 3 "" H 9041 6914 50  0001 C CNN
+	2    9041 6914
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SH25 F2
+U 1 1 F9258E2C
+P 8441 6714
+F 0 "F2" H 8291 6769 59  0001 L BNN
+F 1 "3A" H 8441 6799 59  0000 L BNN
+F 2 "sra_board_2020:SH25" H 8441 6714 50  0001 C CNN
+F 3 "" H 8441 6714 50  0001 C CNN
+	1    8441 6714
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:RAHMEN3Q #FRAME1
+U 1 1 73DA64CA
+P 17200 750
+F 0 "#FRAME1" H 17200 750 50  0001 C CNN
+F 1 "RAHMEN3Q" H 17200 750 50  0001 C CNN
+F 2 "" H 17200 750 50  0001 C CNN
+F 3 "" H 17200 750 50  0001 C CNN
+	1    17200 750 
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:RAHMEN3Q #FRAME1
+U 2 1 73DA64C6
+P 5900 1350
+F 0 "#FRAME1" H 5900 1350 50  0001 C CNN
+F 1 "RAHMEN3Q" H 5900 1350 50  0001 C CNN
+F 2 "" H 5900 1350 50  0001 C CNN
+F 3 "" H 5900 1350 50  0001 C CNN
+	2    5900 1350
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X19 JP2
+U 1 1 FA93C76E
+P 2415 9364
+F 0 "JP2" H 2165 10289 59  0000 L BNN
+F 1 "PINHD-1X19" H 2165 8165 59  0000 L BNN
+F 2 "sra_board_2020:1X19" H 2415 9364 50  0001 C CNN
+F 3 "" H 2415 9364 50  0001 C CNN
+	1    2415 9364
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X19 JP1
+U 1 1 2F430EF2
+P 5764 9165
+F 0 "JP1" H 5514 10090 59  0000 L BNN
+F 1 "PINHD-1X19" H 5514 7966 59  0000 L BNN
+F 2 "sra_board_2020:1X19" H 5764 9165 50  0001 C CNN
+F 3 "" H 5764 9165 50  0001 C CNN
+	1    5764 9165
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-006-1 X1
+U 1 1 753049C4
+P 8184 8439
+F 0 "X1" H 8224 8409 51  0001 L BNN
+F 1 "057-006-1" H 8084 8514 59  0001 L BNN
+F 2 "sra_board_2020:057-006-1" H 8184 8439 50  0001 C CNN
+F 3 "" H 8184 8439 50  0001 C CNN
+	1    8184 8439
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-006-1 X1
+U 2 1 753049C8
+P 9084 8439
+F 0 "X1" H 9124 8409 51  0001 L BNN
+F 1 "057-006-1" H 8984 8514 59  0001 L BNN
+F 2 "sra_board_2020:057-006-1" H 9084 8439 50  0001 C CNN
+F 3 "" H 9084 8439 50  0001 C CNN
+	2    9084 8439
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-006-1 X1
+U 3 1 753049CC
+P 8184 8639
+F 0 "X1" H 8224 8609 51  0001 L BNN
+F 1 "057-006-1" H 8084 8714 59  0001 L BNN
+F 2 "sra_board_2020:057-006-1" H 8184 8639 50  0001 C CNN
+F 3 "" H 8184 8639 50  0001 C CNN
+	3    8184 8639
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-006-1 X1
+U 4 1 753049D0
+P 9084 8639
+F 0 "X1" H 9124 8609 51  0001 L BNN
+F 1 "057-006-1" H 8984 8714 59  0001 L BNN
+F 2 "sra_board_2020:057-006-1" H 9084 8639 50  0001 C CNN
+F 3 "" H 9084 8639 50  0001 C CNN
+	4    9084 8639
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-006-1 X1
+U 5 1 753049D4
+P 8184 8839
+F 0 "X1" H 8224 8809 51  0001 L BNN
+F 1 "057-006-1" H 8084 8914 59  0001 L BNN
+F 2 "sra_board_2020:057-006-1" H 8184 8839 50  0001 C CNN
+F 3 "" H 8184 8839 50  0001 C CNN
+	5    8184 8839
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-006-1 X1
+U 6 1 753049D8
+P 9084 8839
+F 0 "X1" H 9124 8809 51  0001 L BNN
+F 1 "057-006-1" H 8984 8914 59  0001 L BNN
+F 2 "sra_board_2020:057-006-1" H 9084 8839 50  0001 C CNN
+F 3 "" H 9084 8839 50  0001 C CNN
+	6    9084 8839
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_013
+U 1 1 A8F83624
+P 7834 8439
+F 0 "#X_013" H 7834 8439 50  0001 C CNN
+F 1 "GND" H 7834 8439 50  0001 C CNN
+F 2 "" H 7834 8439 50  0001 C CNN
+F 3 "" H 7834 8439 50  0001 C CNN
+	1    7834 8439
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 1 1 E38EDB94
+P 8184 9288
+F 0 "LINE-SENSOR1" H 8224 9258 51  0001 L BNN
+F 1 "057-010-1" H 8084 9363 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 8184 9288 50  0001 C CNN
+F 3 "" H 8184 9288 50  0001 C CNN
+	1    8184 9288
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 2 1 E38EDB98
+P 9084 9288
+F 0 "LINE-SENSOR1" H 9124 9258 51  0001 L BNN
+F 1 "057-010-1" H 8984 9363 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 9084 9288 50  0001 C CNN
+F 3 "" H 9084 9288 50  0001 C CNN
+	2    9084 9288
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 3 1 E38EDB9C
+P 8184 9488
+F 0 "LINE-SENSOR1" H 8224 9458 51  0001 L BNN
+F 1 "057-010-1" H 8084 9563 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 8184 9488 50  0001 C CNN
+F 3 "" H 8184 9488 50  0001 C CNN
+	3    8184 9488
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 4 1 E38EDB80
+P 9084 9488
+F 0 "LINE-SENSOR1" H 9124 9458 51  0001 L BNN
+F 1 "057-010-1" H 8984 9563 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 9084 9488 50  0001 C CNN
+F 3 "" H 9084 9488 50  0001 C CNN
+	4    9084 9488
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 5 1 E38EDB84
+P 8184 9688
+F 0 "LINE-SENSOR1" H 8224 9658 51  0001 L BNN
+F 1 "057-010-1" H 8084 9763 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 8184 9688 50  0001 C CNN
+F 3 "" H 8184 9688 50  0001 C CNN
+	5    8184 9688
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 6 1 E38EDB88
+P 9084 9688
+F 0 "LINE-SENSOR1" H 9124 9658 51  0001 L BNN
+F 1 "057-010-1" H 8984 9763 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 9084 9688 50  0001 C CNN
+F 3 "" H 9084 9688 50  0001 C CNN
+	6    9084 9688
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 7 1 E38EDB8C
+P 8184 9888
+F 0 "LINE-SENSOR1" H 8224 9858 51  0001 L BNN
+F 1 "057-010-1" H 8084 9963 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 8184 9888 50  0001 C CNN
+F 3 "" H 8184 9888 50  0001 C CNN
+	7    8184 9888
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 8 1 E38EDBB0
+P 9084 9888
+F 0 "LINE-SENSOR1" H 9124 9858 51  0001 L BNN
+F 1 "057-010-1" H 8984 9963 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 9084 9888 50  0001 C CNN
+F 3 "" H 9084 9888 50  0001 C CNN
+	8    9084 9888
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 9 1 E38EDBB4
+P 8184 10088
+F 0 "LINE-SENSOR1" H 8224 10058 51  0001 L BNN
+F 1 "057-010-1" H 8084 10163 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 8184 10088 50  0001 C CNN
+F 3 "" H 8184 10088 50  0001 C CNN
+	9    8184 10088
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:057-010-1 LINE-SENSOR1
+U 10 1 E38EDBB8
+P 9084 10088
+F 0 "LINE-SENSOR1" H 9124 10058 51  0001 L BNN
+F 1 "057-010-1" H 8984 10163 59  0001 L BNN
+F 2 "sra_board_2020:057-010-1" H 9084 10088 50  0001 C CNN
+F 3 "" H 9084 10088 50  0001 C CNN
+	10   9084 10088
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_014
+U 1 1 BF502B7B
+P 9311 9487
+F 0 "#X_014" H 9311 9487 50  0001 C CNN
+F 1 "GND" H 9311 9487 50  0001 C CNN
+F 2 "" H 9311 9487 50  0001 C CNN
+F 3 "" H 9311 9487 50  0001 C CNN
+	1    9311 9487
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_015
+U 1 1 6001136D
+P 9184 8839
+F 0 "#X_015" H 9184 8839 50  0001 C CNN
+F 1 "GND" H 9184 8839 50  0001 C CNN
+F 2 "" H 9184 8839 50  0001 C CNN
+F 3 "" H 9184 8839 50  0001 C CNN
+	1    9184 8839
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X5 JP7
+U 1 1 600E0B9C
+P 14981 6489
+F 0 "JP7" H 14731 6814 59  0000 L BNN
+F 1 "PINHD-1X5" H 14731 6089 59  0000 L BNN
+F 2 "sra_board_2020:1X05" H 14981 6489 50  0001 C CNN
+F 3 "" H 14981 6489 50  0001 C CNN
+	1    14981 6489
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X3 JP8
+U 1 1 A6258458
+P 15086 5362
+F 0 "JP8" H 14850 5060 59  0000 L BNN
+F 1 "PINHD-1X3" H 14836 5062 59  0000 L BNN
+F 2 "sra_board_2020:1X03" H 15086 5362 50  0001 C CNN
+F 3 "" H 15086 5362 50  0001 C CNN
+	1    15086 5362
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:DTS-6 SW1
+U 1 1 E9E31E47
+P 10700 5628
+F 0 "SW1" V 10450 5528 59  0000 L BNN
+F 1 "DTS-6" V 10550 5753 59  0001 L BNN
+F 2 "sra_board_2020:DTS-6" H 10700 5628 50  0001 C CNN
+F 3 "" H 10700 5628 50  0001 C CNN
+	1    10700 5628
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:DTS-6 SW2
+U 1 1 49939659
+P 10700 6228
+F 0 "SW2" V 10450 6128 59  0000 L BNN
+F 1 "DTS-6" V 10550 6353 59  0001 L BNN
+F 2 "sra_board_2020:DTS-6" H 10700 6228 50  0001 C CNN
+F 3 "" H 10700 6228 50  0001 C CNN
+	1    10700 6228
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_012
+U 1 1 9D3308F1
+P 10250 5603
+F 0 "#X_012" H 10250 5603 50  0001 C CNN
+F 1 "GND" H 10250 5603 50  0001 C CNN
+F 2 "" H 10250 5603 50  0001 C CNN
+F 3 "" H 10250 5603 50  0001 C CNN
+	1    10250 5603
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_017
+U 1 1 7ECB9BD3
+P 10250 6203
+F 0 "#X_017" H 10250 6203 50  0001 C CNN
+F 1 "GND" H 10250 6203 50  0001 C CNN
+F 2 "" H 10250 6203 50  0001 C CNN
+F 3 "" H 10250 6203 50  0001 C CNN
+	1    10250 6203
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_019
+U 1 1 7296E347
+P 6114 8365
+F 0 "#X_019" H 6114 8365 50  0001 C CNN
+F 1 "GND" H 6114 8365 50  0001 C CNN
+F 2 "" H 6114 8365 50  0001 C CNN
+F 3 "" H 6114 8365 50  0001 C CNN
+	1    6114 8365
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_020
+U 1 1 7470A224
+P 6114 8965
+F 0 "#X_020" H 6114 8965 50  0001 C CNN
+F 1 "GND" H 6114 8965 50  0001 C CNN
+F 2 "" H 6114 8965 50  0001 C CNN
+F 3 "" H 6114 8965 50  0001 C CNN
+	1    6114 8965
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_021
+U 1 1 2167E6F8
+P 1440 9746
+F 0 "#X_021" H 1440 9746 50  0001 C CNN
+F 1 "GND" H 1440 9746 50  0001 C CNN
+F 2 "" H 1440 9746 50  0001 C CNN
+F 3 "" H 1440 9746 50  0001 C CNN
+	1    1440 9746
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_022
+U 1 1 788F9C79
+P 4167 4122
+F 0 "#X_022" H 4167 4122 50  0001 C CNN
+F 1 "GND" H 4167 4122 50  0001 C CNN
+F 2 "" H 4167 4122 50  0001 C CNN
+F 3 "" H 4167 4122 50  0001 C CNN
+	1    4167 4122
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_023
+U 1 1 FAD6A2DC
+P 3734 4316
+F 0 "#X_023" H 3734 4316 50  0001 C CNN
+F 1 "GND" H 3734 4316 50  0001 C CNN
+F 2 "" H 3734 4316 50  0001 C CNN
+F 3 "" H 3734 4316 50  0001 C CNN
+	1    3734 4316
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X3 JP3
+U 1 1 ACD8E5B6
+P 15523 5360
+F 0 "JP3" H 15271 5062 59  0000 L BNN
+F 1 "PINHD-1X3" H 15273 5060 59  0000 L BNN
+F 2 "sra_board_2020:1X03" H 15523 5360 50  0001 C CNN
+F 3 "" H 15523 5360 50  0001 C CNN
+	1    15523 5360
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X3 JP5
+U 1 1 6716FC81
+P 15965 5362
+F 0 "JP5" H 15692 5056 59  0000 L BNN
+F 1 "PINHD-1X3" H 15715 5062 59  0000 L BNN
+F 2 "sra_board_2020:1X03" H 15965 5362 50  0001 C CNN
+F 3 "" H 15965 5362 50  0001 C CNN
+	1    15965 5362
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:DTS-6 SW4
+U 1 1 FD9829DD
+P 11900 5628
+F 0 "SW4" V 11650 5528 59  0000 L BNN
+F 1 "DTS-6" V 11750 5753 59  0001 L BNN
+F 2 "sra_board_2020:DTS-6" H 11900 5628 50  0001 C CNN
+F 3 "" H 11900 5628 50  0001 C CNN
+	1    11900 5628
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:DTS-6 SW3
+U 1 1 D315FB4B
+P 11900 6228
+F 0 "SW3" V 11650 6128 59  0000 L BNN
+F 1 "DTS-6" V 11750 6353 59  0001 L BNN
+F 2 "sra_board_2020:DTS-6" H 11900 6228 50  0001 C CNN
+F 3 "" H 11900 6228 50  0001 C CNN
+	1    11900 6228
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_018
+U 1 1 06056018
+P 11450 5603
+F 0 "#X_018" H 11450 5603 50  0001 C CNN
+F 1 "GND" H 11450 5603 50  0001 C CNN
+F 2 "" H 11450 5603 50  0001 C CNN
+F 3 "" H 11450 5603 50  0001 C CNN
+	1    11450 5603
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_024
+U 1 1 ABB54317
+P 11450 6203
+F 0 "#X_024" H 11450 6203 50  0001 C CNN
+F 1 "GND" H 11450 6203 50  0001 C CNN
+F 2 "" H 11450 6203 50  0001 C CNN
+F 3 "" H 11450 6203 50  0001 C CNN
+	1    11450 6203
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_026
+U 1 1 BEAA3F38
+P 14803 5510
+F 0 "#X_026" H 14803 5510 50  0001 C CNN
+F 1 "GND" H 14803 5510 50  0001 C CNN
+F 2 "" H 14803 5510 50  0001 C CNN
+F 3 "" H 14803 5510 50  0001 C CNN
+	1    14803 5510
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SMD2 PAD1
+U 1 1 0344E6DA
+P 13078 6364
+F 0 "PAD1" H 13033 6437 59  0000 L BNN
+F 1 "SMD2" H 13033 6234 59  0000 L BNN
+F 2 "sra_board_2020:SMD1,27-2,54" H 13078 6364 50  0001 C CNN
+F 3 "" H 13078 6364 50  0001 C CNN
+	1    13078 6364
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SMD2 PAD2
+U 1 1 5599201C
+P 13082 6624
+F 0 "PAD2" H 13037 6697 59  0000 L BNN
+F 1 "SMD2" H 13037 6494 59  0000 L BNN
+F 2 "sra_board_2020:SMD1,27-2,54" H 13082 6624 50  0001 C CNN
+F 3 "" H 13082 6624 50  0001 C CNN
+	1    13082 6624
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SMD2 PAD3
+U 1 1 5B5DCDFD
+P 13895 6356
+F 0 "PAD3" H 13850 6429 59  0000 L BNN
+F 1 "SMD2" H 13850 6226 59  0000 L BNN
+F 2 "sra_board_2020:SMD1,27-2,54" H 13895 6356 50  0001 C CNN
+F 3 "" H 13895 6356 50  0001 C CNN
+	1    13895 6356
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:SMD2 PAD4
+U 1 1 4BAB13D1
+P 13899 6616
+F 0 "PAD4" H 13854 6689 59  0000 L BNN
+F 1 "SMD2" H 13854 6486 59  0000 L BNN
+F 2 "sra_board_2020:SMD1,27-2,54" H 13899 6616 50  0001 C CNN
+F 3 "" H 13899 6616 50  0001 C CNN
+	1    13899 6616
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:AMS1117-3.3 AMS1117
+U 1 1 AAFE5338
+P 13454 2645
+F 0 "AMS1117" H 13054 2865 85  0000 L BNN
+F 1 "AMS1117-3.3" H 13054 2324 85  0000 L BNN
+F 2 "sra_board_2020:SOT229P700X180-4N" H 13454 2645 50  0001 C CNN
+F 3 "" H 13454 2645 50  0001 C CNN
+	1    13454 2645
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:C5_2.5 CIN1
+U 1 1 70DC75B7
+P 12755 2862
+F 0 "CIN1" H 12815 2877 59  0001 L BNN
+F 1 "0.1uF" H 13051 2943 59  0000 R TNN
+F 2 "sra_board_2020:C5B2.5" H 12755 2862 50  0001 C CNN
+F 3 "" H 12755 2862 50  0001 C CNN
+	1    12755 2862
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:C5_2.5 CO1
+U 1 1 A286222F
+P 14224 2986
+F 0 "CO1" H 14284 3001 59  0001 L BNN
+F 1 "0.1uF" H 14534 3071 59  0000 R TNN
+F 2 "sra_board_2020:C5B2.5" H 14224 2986 50  0001 C CNN
+F 3 "" H 14224 2986 50  0001 C CNN
+	1    14224 2986
+	-1   0    0    1   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:CPOL-EUE2.5-6 CO2
+U 1 1 A8DB142E
+P 14422 2892
+F 0 "CO2" H 14197 2703 59  0000 L BNN
+F 1 "22uF" H 14122 2802 59  0000 L BNN
+F 2 "sra_board_2020:E2,5-6" H 14422 2892 50  0001 C CNN
+F 3 "" H 14422 2892 50  0001 C CNN
+	1    14422 2892
+	-1   0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_027
+U 1 1 48A66216
+P 12752 3051
+F 0 "#X_027" H 12752 3051 50  0001 C CNN
+F 1 "GND" H 12752 3051 50  0001 C CNN
+F 2 "" H 12752 3051 50  0001 C CNN
+F 3 "" H 12752 3051 50  0001 C CNN
+	1    12752 3051
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_028
+U 1 1 90745494
+P 14219 3153
+F 0 "#X_028" H 14219 3153 50  0001 C CNN
+F 1 "GND" H 14219 3153 50  0001 C CNN
+F 2 "" H 14219 3153 50  0001 C CNN
+F 3 "" H 14219 3153 50  0001 C CNN
+	1    14219 3153
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_029
+U 1 1 B9539C87
+P 14418 3157
+F 0 "#X_029" H 14418 3157 50  0001 C CNN
+F 1 "GND" H 14418 3157 50  0001 C CNN
+F 2 "" H 14418 3157 50  0001 C CNN
+F 3 "" H 14418 3157 50  0001 C CNN
+	1    14418 3157
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_030
+U 1 1 F18677B8
+P 14090 2747
+F 0 "#X_030" H 14090 2747 50  0001 C CNN
+F 1 "GND" H 14090 2747 50  0001 C CNN
+F 2 "" H 14090 2747 50  0001 C CNN
+F 3 "" H 14090 2747 50  0001 C CNN
+	1    14090 2747
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_031
+U 1 1 CC8A469B
+P 15968 7036
+F 0 "#X_031" H 15968 7036 50  0001 C CNN
+F 1 "GND" H 15968 7036 50  0001 C CNN
+F 2 "" H 15968 7036 50  0001 C CNN
+F 3 "" H 15968 7036 50  0001 C CNN
+	1    15968 7036
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 TB_A1
+U 1 1 DC42B1F7
+P 6185 5669
+F 0 "TB_A1" H 6185 5669 50  0001 C CNN
+F 1 "9077-2" V 5960 5794 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 6185 5669 50  0001 C CNN
+F 3 "" H 6185 5669 50  0001 C CNN
+	1    6185 5669
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 TB_A1
+U 2 1 DC42B1FB
+P 6185 6069
+F 0 "TB_A1" H 6185 6069 50  0001 C CNN
+F 1 "9077-2" V 5960 6194 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 6185 6069 50  0001 C CNN
+F 3 "" H 6185 6069 50  0001 C CNN
+	2    6185 6069
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 TB_B1
+U 1 1 998B85A7
+P 6200 6561
+F 0 "TB_B1" H 6200 6561 50  0001 C CNN
+F 1 "9077-2" V 5975 6686 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 6200 6561 50  0001 C CNN
+F 3 "" H 6200 6561 50  0001 C CNN
+	1    6200 6561
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:9077-2 TB_B1
+U 2 1 998B85AB
+P 6200 6961
+F 0 "TB_B1" H 6200 6961 50  0001 C CNN
+F 1 "9077-2" V 5975 7086 59  0001 L BNN
+F 2 "sra_board_2020:9077-2" H 6200 6961 50  0001 C CNN
+F 3 "" H 6200 6961 50  0001 C CNN
+	2    6200 6961
+	0    1    1    0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X5 JP4
+U 1 1 47274FB3
+P 16160 6470
+F 0 "JP4" H 15910 6795 59  0000 L BNN
+F 1 "PINHD-1X5" H 15910 6070 59  0000 L BNN
+F 2 "sra_board_2020:1X05" H 16160 6470 50  0001 C CNN
+F 3 "" H 16160 6470 50  0001 C CNN
+	1    16160 6470
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X5 JP10
+U 1 1 33F1B700
+P 15557 6489
+F 0 "JP10" H 15307 6814 59  0000 L BNN
+F 1 "PINHD-1X5" H 15307 6089 59  0000 L BNN
+F 2 "sra_board_2020:1X05" H 15557 6489 50  0001 C CNN
+F 3 "" H 15557 6489 50  0001 C CNN
+	1    15557 6489
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:1N581 D1
+U 1 1 8D141E84
+P 7935 6720
+F 0 "D1" H 7845 6795 59  0000 L BNN
+F 1 "1N581" H 7845 6585 59  0000 L BNN
+F 2 "sra_board_2020:DO41-7.6" H 7935 6720 50  0001 C CNN
+F 3 "" H 7935 6720 50  0001 C CNN
+	1    7935 6720
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R1
+U 1 1 A6E4516B
+P 3443 4575
+F 0 "R1" H 3293 4634 59  0000 L BNN
+F 1 "470Ω" H 3293 4445 59  0000 L BNN
+F 2 "sra_board_2020:0204_7" H 3443 4575 50  0001 C CNN
+F 3 "" H 3443 4575 50  0001 C CNN
+	1    3443 4575
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X5 JP6
+U 1 1 7F37E81D
+P 10888 2901
+F 0 "JP6" H 10638 3226 59  0000 L BNN
+F 1 "PINHD-1X5" H 10638 2501 59  0000 L BNN
+F 2 "sra_board_2020:1X05" H 10888 2901 50  0001 C CNN
+F 3 "" H 10888 2901 50  0001 C CNN
+	1    10888 2901
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_016
+U 1 1 444124E7
+P 7686 2841
+F 0 "#X_016" H 7686 2841 50  0001 C CNN
+F 1 "GND" H 7686 2841 50  0001 C CNN
+F 2 "" H 7686 2841 50  0001 C CNN
+F 3 "" H 7686 2841 50  0001 C CNN
+	1    7686 2841
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R2
+U 1 1 1E6B7C48
+P 12761 9116
+F 0 "R2" H 12711 9075 59  0000 L BNN
+F 1 "1KΩ" H 12611 8986 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 12761 9116 50  0001 C CNN
+F 3 "" H 12761 9116 50  0001 C CNN
+	1    12761 9116
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R3
+U 1 1 B9D5BB83
+P 12761 9314
+F 0 "R3" H 12711 9273 59  0000 L BNN
+F 1 "1KΩ" H 12611 9184 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 12761 9314 50  0001 C CNN
+F 3 "" H 12761 9314 50  0001 C CNN
+	1    12761 9314
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R4
+U 1 1 070BB85A
+P 12761 9709
+F 0 "R4" H 12711 9668 59  0000 L BNN
+F 1 "1KΩ" H 12611 9579 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 12761 9709 50  0001 C CNN
+F 3 "" H 12761 9709 50  0001 C CNN
+	1    12761 9709
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R5
+U 1 1 98B351C2
+P 12761 9927
+F 0 "R5" H 12711 9886 59  0000 L BNN
+F 1 "1KΩ" H 12611 9797 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 12761 9927 50  0001 C CNN
+F 3 "" H 12761 9927 50  0001 C CNN
+	1    12761 9927
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R6
+U 1 1 0930539F
+P 15655 9097
+F 0 "R6" H 15605 9056 59  0000 L BNN
+F 1 "1KΩ" H 15505 8967 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 15655 9097 50  0001 C CNN
+F 3 "" H 15655 9097 50  0001 C CNN
+	1    15655 9097
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R7
+U 1 1 F3D69D1A
+P 15655 9294
+F 0 "R7" H 15605 9253 59  0000 L BNN
+F 1 "1KΩ" H 15505 9164 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 15655 9294 50  0001 C CNN
+F 3 "" H 15655 9294 50  0001 C CNN
+	1    15655 9294
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R8
+U 1 1 DE07CA42
+P 15655 9689
+F 0 "R8" H 15605 9648 59  0000 L BNN
+F 1 "1KΩ" H 15505 9559 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 15655 9689 50  0001 C CNN
+F 3 "" H 15655 9689 50  0001 C CNN
+	1    15655 9689
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:R-EU_0204_7 R9
+U 1 1 C235D15F
+P 15655 9886
+F 0 "R9" H 15605 9845 59  0000 L BNN
+F 1 "1KΩ" H 15505 9756 59  0001 L BNN
+F 2 "sra_board_2020:0204_7" H 15655 9886 50  0001 C CNN
+F 3 "" H 15655 9886 50  0001 C CNN
+	1    15655 9886
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:1N5399_SQUARE U$1
+U 1 1 BABD3B23
+P 7900 5800
+F 0 "U$1" H 7784 5904 59  0000 L BNN
+F 1 "1N5399_SQUARE" H 7724 5623 59  0001 L BNN
+F 2 "sra_board_2020:C2673" H 7900 5800 50  0001 C CNN
+F 3 "" H 7900 5800 50  0001 C CNN
+	1    7900 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:1N5399_ROUND U$3
+U 1 1 54307519
+P 10100 2600
+F 0 "U$3" H 9984 2704 59  0001 L BNN
+F 1 "1N5399_ROUND" H 9924 2423 59  0001 L BNN
+F 2 "sra_board_2020:D-10" H 10100 2600 50  0001 C CNN
+F 3 "" H 10100 2600 50  0001 C CNN
+	1    10100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:1N5399_SQUARE U$2
+U 1 1 A8B04D1A
+P 10400 3500
+F 0 "U$2" H 10284 3604 59  0000 L BNN
+F 1 "1N5399_SQUARE" H 10224 3323 59  0001 L BNN
+F 2 "sra_board_2020:C2673" H 10400 3500 50  0001 C CNN
+F 3 "" H 10400 3500 50  0001 C CNN
+	1    10400 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:PINHD-1X4 OLED1
+U 1 1 C8D212E2
+P 8700 10700
+F 0 "OLED1" H 8450 11025 59  0000 L BNN
+F 1 "PINHD-1X4" H 8450 10400 59  0000 L BNN
+F 2 "sra_board_2020:1X04" H 8700 10700 50  0001 C CNN
+F 3 "" H 8700 10700 50  0001 C CNN
+	1    8700 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L sra_board_2020-eagle-import:GND #X_01
+U 1 1 22705153
+P 7912 10711
+F 0 "#X_01" H 7912 10711 50  0001 C CNN
+F 1 "GND" H 7912 10711 50  0001 C CNN
+F 2 "" H 7912 10711 50  0001 C CNN
+F 3 "" H 7912 10711 50  0001 C CNN
+	1    7912 10711
+	1    0    0    -1  
+$EndComp
+Text Notes 15097 4325 0    127  ~ 0
+TERMINALS
+Text Notes 14349 8296 0    127  ~ 0
+MOTOR Drivers
+Text Notes 4664 7965 0    127  ~ 0
+Microcontroller
+Text Notes 9826 1841 0    127  ~ 0
+Buck Circuit
+Text Notes 8646 4884 0    127  ~ 0
+Switches
+Text Notes 8091 6114 0    47   ~ 0
+12V_P>\n12V with portection circuit
+Text Notes 8091 7014 0    47   ~ 0
+5V_P> \n5V with portection circuit
+Text Notes 7484 8139 0    127  ~ 0
+Sensors ports
+Text Notes 8484 8689 0    59   ~ 0
+MPU
+Text Notes 8284 9738 0    59   ~ 0
+LSA
+Text Notes 6052 9744 0    34   ~ 0
+NOTE\nGPIO 0 : o, as name for common ground iso
+Text Notes 13222 1782 0    127  ~ 0
+AMS1117
+Text Notes 2729 3530 0    127  ~ 0
+LEDs
+Text Notes 7700 5600 0    59   ~ 0
+1N5822
+Text Notes 7100 8900 0    59   ~ 0
+22 - SDA\n21 - SCL\n23 - INT
+Text Notes 9000 10800 0    59   ~ 0
+22 - SDA\n21 - SCL\n23 - INT
+Text GLabel 3265 8364 0    10   BiDi ~ 0
+3V3
+Text GLabel 4865 8364 0    10   BiDi ~ 0
+GND3
+Text GLabel 4865 8964 0    10   BiDi ~ 0
+GND2
+Wire Wire Line
+	15968 7032 15968 6673
+Wire Wire Line
+	15968 7032 15968 6470
+Wire Wire Line
+	15968 7032 15968 6370
+Wire Wire Line
+	15968 7032 15968 6270
+Wire Wire Line
+	10298 3096 10400 3096
+Wire Wire Line
+	15968 6570 15968 7032
+Wire Wire Line
+	7912 10600 8600 10600
+Wire Wire Line
+	12633 2545 12854 2545
+$EndSCHEMATC
